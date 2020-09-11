@@ -1,4 +1,4 @@
-package com.ikuei.leetcode.easy;
+package com.ikuei.leetcode.easy.string;
 
 public class LeetCode1108 {
 	/*

@@ -1,4 +1,4 @@
-package com.ikuei.leetcode.easy;
+package com.ikuei.leetcode.easy.array;
 
 import java.util.HashMap;
 import java.util.Map;
